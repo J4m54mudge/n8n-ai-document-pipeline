@@ -1,0 +1,17 @@
+{
+    "submission_id": "REQ-20261025-SY1T4",
+    "received_at": "2026-10-25T13:16:15.690Z",
+    "channel": "webhook",
+    "name": "Marie T.",
+    "email": "marie@harbourline.example",
+    "company": "Harbourline Cafe",
+    "category": "Service call - refrigeration fault",
+    "priority": "URGENT",
+    "needs_review": "NO",
+    "missing_info": "Site address; Cool room make/model; After-hours access",
+    "decision": "APPROVE",
+    "decided_at": "2026-10-25T13:16:19.738Z",
+    "pdf_path": "/home/claude/build/test/n8nhome/.n8n-files/outputs/REQ-20261025-SY1T4.pdf",
+    "model": "claude-sonnet-4-5",
+    "raw_message": "Hi - our cool room stopped holding temp overnight, it's reading 9 degrees this morning and we open Thursday for a function booking of 60 people. We had someone service it in March. How soon can someone look at it?? Also can we get a quote for a maintenance plan."
+}
